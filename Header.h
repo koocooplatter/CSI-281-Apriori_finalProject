@@ -49,13 +49,4 @@ struct Titanic
 	vector<int> tage; // Adult = 0, Child = 1
 	vector<int> tsurvived; // No = 0, Yes = 1
 };
-
-/*struct Titanic
-{
-	int trooming; // Crew = 0, 1st = 1, 2nd = 2, 3rd = 3
-	bool tsex; // Male = 0, Female = 1
-	bool tage; // Adult = 0, Child = 1
-	bool tsurvived; // No = 0, Yes = 1
-};*/
-
 #endif
